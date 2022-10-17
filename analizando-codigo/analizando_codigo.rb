@@ -5,7 +5,7 @@
 suma_uno = 8 + 10  #18
 suma_dos = suma_uno + 10  #28
 valor_uno = 10
-suma_dos == 18 + valor_uno #(False, es 38 )
+suma_dos == 18 + valor_uno #(False, es 38 ) Verdadero
 #=> Escribe el resultado de la comparación
 # NO, es 38
 
